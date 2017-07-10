@@ -1,0 +1,23 @@
+h1 {
+	color:#0000FF;
+}
+
+h2 {
+	color:#FF0000;
+}
+
+.git-toast {
+    color: #333333;
+    padding: 11px 12px 12px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(167, 167, 167, 0.5);
+    border: solid 1px #0abe51;
+    position: fixed;
+    bottom: 72px;
+    left: 15%;
+    max-width: 100%;
+    text-align: center;
+    z-index: 12;
+    width: 70%;
+}
