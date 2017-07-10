@@ -14,8 +14,8 @@ import java.util.Map;
  */
 @Controller
 public class WelcomeController {
-    @Value("${welcome.message:test}")
-    private String message = "Hello World22";
+    @Value("${welcome.message}")
+    private String message;
 
     @RequestMapping(value = "")
     public ModelAndView welcome(HttpServletRequest request) {
