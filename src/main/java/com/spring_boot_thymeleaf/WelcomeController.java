@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
-import java.util.Map;
 
 /**
  * Created by rakeshsoni on 7/10/17.
